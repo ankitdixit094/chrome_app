@@ -1,6 +1,6 @@
 {
-    "short_name": "Applop",
-    "name": "Applop - Create Your Own Mobile App",
+    "short_name": "sololearn",
+    "name": "sololearn Desc",
     "background_color": "#FFFFFF",
     "theme_color": "#67BCFF",
     "display": "standalone",
@@ -15,7 +15,7 @@
     "related_applications": [
         {
             "platform": "play",
-            "url": "https://play.google.com/store/apps/details?id=com.applop"
+            "url": "https://play.google.com/store/apps/details?id=com.sololearn"
         }
     ]
 }
