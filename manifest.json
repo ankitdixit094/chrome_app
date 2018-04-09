@@ -4,7 +4,7 @@
     "background_color": "#FFFFFF",
     "theme_color": "#67BCFF",
     "display": "standalone",
-    "start_url": ".",
+    "start_url": "/chrome_app/?utm_source=homescreen",
     "icons": [
         {
             "src": "https://googlechrome.github.io/samples/images/touch/chrome-touch-icon-192x192.png",
