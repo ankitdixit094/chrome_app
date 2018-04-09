@@ -4,7 +4,7 @@
     "background_color": "#FFFFFF",
     "theme_color": "#67BCFF",
     "display": "standalone",
-    "start_url": "https://ankitdixit094.github.io/chrome_app/index.html",
+    "start_url": ".",
     "icons": [
         {
             "src": "https://googlechrome.github.io/samples/images/touch/chrome-touch-icon-192x192.png",
