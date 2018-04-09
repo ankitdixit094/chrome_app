@@ -1,8 +1,10 @@
 {
     "short_name": "Applop",
     "name": "Applop - Create Your Own Mobile App",
-    "start_url": "/?utm_source=homescreen",
+    "background_color": "#FFFFFF",
+    "theme_color": "#67BCFF",
     "display": "standalone",
+    "start_url": "/?utm_source=homescreen",
     "icons": [
         {
             "src": "https://googlechrome.github.io/samples/images/touch/chrome-touch-icon-192x192.png",
